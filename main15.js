@@ -106,4 +106,5 @@ function exercise() {
     console.log("Ten khach hang: ",yourName,",", "So tien phai tra la: ", Pay);
 
  }
+ 
  exercise2();
